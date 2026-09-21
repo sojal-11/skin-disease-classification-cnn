@@ -2,7 +2,7 @@
 
 Multi-class classification of skin lesion images into 7 classes (akiec, bcc, bkl, df, mel, nv, vasc) using an ImageNet-pretrained EfficientNetB0 with transfer learning and fine-tuning (Keras / TensorFlow), plus Grad-CAM explainability.
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR_USERNAME/YOUR_REPO/blob/main/skin_disease_classification_keras.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sojal-11/skin-disease-classification-cnn/blob/main/skin_disease_classification_keras.ipynb)
 
 ## Reference paper
 K. Ali, Z. A. Shaikh, A. A. Khan, A. A. Laghari, "Multiclass skin cancer classification using EfficientNets – a first step towards preventing skin cancer," *Neuroscience Informatics*, vol. 2, no. 4, p. 100034, 2022. https://doi.org/10.1016/j.neuri.2021.100034
