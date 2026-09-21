@@ -1,0 +1,7 @@
+*.h5
+*.keras
+*.pth
+*.zip
+__pycache__/
+.ipynb_checkpoints/
+dataset_extracted/
